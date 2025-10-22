@@ -1,0 +1,32 @@
+modLoader="javafml"
+loaderVersion="[52,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="ashdragonfire"
+version="1.0.0"
+displayName="Ash & Dragonfire: Eternal Conflict"
+displayURL="https://github.com/glasserdraco/ashdragonfire"
+logoFile="logo.png"
+credits="Created by GlasserDraco"
+authors="GlasserDraco"
+description='''
+《灰烬与龙焰:永燃之战》- 大型阵营对抗模组
+在艾格斯大陆上,龙族与人类展开史诗般的战争。
+选择你的阵营,掌握魔法或科技,参与改变世界的战争!
+'''
+
+[[dependencies.ashdragonfire]]
+    modId="forge"
+    mandatory=true
+    versionRange="[52,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.ashdragonfire]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.21.1]"
+    ordering="NONE"
+    side="BOTH"
+

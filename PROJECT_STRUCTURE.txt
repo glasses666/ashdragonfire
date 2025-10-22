@@ -1,0 +1,17 @@
+.
+├── DEVELOPMENT.md
+├── PROJECT_STRUCTURE.txt
+├── README.md
+├── build.gradle
+├── gradle.properties
+├── settings.gradle
+└── src
+    └── main
+        ├── java
+        │   └── com
+        └── resources
+            ├── META-INF
+            ├── assets
+            └── data
+
+8 directories, 6 files

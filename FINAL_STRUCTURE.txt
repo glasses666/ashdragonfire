@@ -1,0 +1,25 @@
+.
+├── COMPLETION_SUMMARY.md
+├── DEVELOPMENT.md
+├── FINAL_STRUCTURE.txt
+├── PROJECT_OVERVIEW.md
+├── PROJECT_STRUCTURE.txt
+├── QUICKSTART.md
+├── README.md
+├── build.gradle
+├── gradle.properties
+├── settings.gradle
+└── src
+    └── main
+        ├── java
+        │   └── com
+        │       └── glasserdraco
+        └── resources
+            ├── META-INF
+            │   └── mods.toml
+            ├── assets
+            │   └── ashdragonfire
+            └── data
+                └── ashdragonfire
+
+11 directories, 11 files
