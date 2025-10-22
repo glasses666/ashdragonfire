@@ -1,0 +1,96 @@
+{
+  "id": "human",
+  "name": "Iron Federation",
+  "description": "Humans who wield the power of technology and firepower",
+  "color": "#4444FF",
+  "icon": "ashdragonfire:textures/gui/faction/human_icon.png",
+  
+  "attributes": {
+    "health": 20.0,
+    "armor": 6.0,
+    "attack_damage": 6.0,
+    "movement_speed": 0.10,
+    "flying_speed": 0.0,
+    "energy_capacity": 1000,
+    "energy_regen": 10.0
+  },
+  
+  "abilities": {
+    "starting": [
+      "cannon_fire"
+    ],
+    "unlockable": [
+      "energy_shield",
+      "turret_deploy",
+      "missile_barrage",
+      "mech_suit"
+    ]
+  },
+  
+  "reputation_levels": [
+    {
+      "level": 1,
+      "name": "Recruit",
+      "reputation": 0,
+      "rewards": {
+        "items": ["ashdragonfire:energy_rifle"],
+        "abilities": []
+      }
+    },
+    {
+      "level": 2,
+      "name": "Soldier",
+      "reputation": 100,
+      "rewards": {
+        "items": [],
+        "abilities": []
+      }
+    },
+    {
+      "level": 3,
+      "name": "Veteran",
+      "reputation": 500,
+      "rewards": {
+        "items": ["ashdragonfire:mechanical_arm"],
+        "abilities": ["energy_shield"]
+      }
+    },
+    {
+      "level": 5,
+      "name": "Elite",
+      "reputation": 2000,
+      "rewards": {
+        "items": ["ashdragonfire:steel_alloy"],
+        "abilities": ["turret_deploy"]
+      }
+    },
+    {
+      "level": 7,
+      "name": "Hero",
+      "reputation": 5000,
+      "rewards": {
+        "items": [],
+        "abilities": ["missile_barrage"]
+      }
+    },
+    {
+      "level": 10,
+      "name": "Immortal",
+      "reputation": 10000,
+      "rewards": {
+        "items": ["ashdragonfire:energy_core_block"],
+        "abilities": ["mech_suit"]
+      }
+    }
+  ],
+  
+  "enemies": ["dragon"],
+  "allies": [],
+  
+  "spawn_structures": [
+    "steel_fortress",
+    "airship_dock",
+    "mechanical_factory"
+  ]
+}
+

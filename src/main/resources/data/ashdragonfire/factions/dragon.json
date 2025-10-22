@@ -1,0 +1,96 @@
+{
+  "id": "dragon",
+  "name": "Drakyn Dominion",
+  "description": "Ancient dragons who command the power of magic and flight",
+  "color": "#FF4444",
+  "icon": "ashdragonfire:textures/gui/faction/dragon_icon.png",
+  
+  "attributes": {
+    "health": 25.0,
+    "armor": 4.0,
+    "attack_damage": 8.0,
+    "movement_speed": 0.12,
+    "flying_speed": 0.15,
+    "mana_capacity": 200,
+    "mana_regen": 2.0
+  },
+  
+  "abilities": {
+    "starting": [
+      "fire_breath"
+    ],
+    "unlockable": [
+      "storm_call",
+      "lava_surge",
+      "lightning_strike",
+      "dragon_roar"
+    ]
+  },
+  
+  "reputation_levels": [
+    {
+      "level": 1,
+      "name": "Recruit",
+      "reputation": 0,
+      "rewards": {
+        "items": ["ashdragonfire:dragon_crystal_staff"],
+        "abilities": []
+      }
+    },
+    {
+      "level": 2,
+      "name": "Soldier",
+      "reputation": 100,
+      "rewards": {
+        "items": [],
+        "abilities": []
+      }
+    },
+    {
+      "level": 3,
+      "name": "Veteran",
+      "reputation": 500,
+      "rewards": {
+        "items": ["ashdragonfire:dragon_scale_armor"],
+        "abilities": ["storm_call"]
+      }
+    },
+    {
+      "level": 5,
+      "name": "Elite",
+      "reputation": 2000,
+      "rewards": {
+        "items": ["ashdragonfire:dragonfire_core"],
+        "abilities": ["lava_surge"]
+      }
+    },
+    {
+      "level": 7,
+      "name": "Hero",
+      "reputation": 5000,
+      "rewards": {
+        "items": [],
+        "abilities": ["lightning_strike"]
+      }
+    },
+    {
+      "level": 10,
+      "name": "Immortal",
+      "reputation": 10000,
+      "rewards": {
+        "items": ["ashdragonfire:ancient_rune_stone"],
+        "abilities": ["dragon_roar"]
+      }
+    }
+  ],
+  
+  "enemies": ["human"],
+  "allies": [],
+  
+  "spawn_structures": [
+    "dragon_nest",
+    "floating_island",
+    "volcanic_lair"
+  ]
+}
+

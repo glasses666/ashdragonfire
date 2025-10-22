@@ -1,0 +1,59 @@
+{
+  "item.ashdragonfire.dragon_crystal_staff": "龙晶杖",
+  "item.ashdragonfire.dragon_scale_armor": "龙鳞甲",
+  "item.ashdragonfire.dragonfire_core": "龙焰心核",
+  "item.ashdragonfire.energy_rifle": "能量步枪",
+  "item.ashdragonfire.mechanical_arm": "机械臂",
+  "item.ashdragonfire.cannon_ammo": "火炮弹药",
+  "item.ashdragonfire.ancient_rune_stone": "古代符石",
+  "item.ashdragonfire.aether_core": "以太核心",
+  "item.ashdragonfire.ash_blood": "灰烬之血",
+  "item.ashdragonfire.dragon_crystal_ore": "龙晶矿石",
+  "item.ashdragonfire.dragon_crystal_ingot": "龙晶锭",
+  "item.ashdragonfire.steel_alloy": "钢铁合金",
+  
+  "block.ashdragonfire.dragon_crystal_ore_block": "龙晶矿石",
+  "block.ashdragonfire.deepslate_dragon_crystal_ore": "深层龙晶矿石",
+  "block.ashdragonfire.dragon_crystal_block": "龙晶方块",
+  "block.ashdragonfire.lava_altar": "熔岩祭坛",
+  "block.ashdragonfire.steel_block": "钢铁方块",
+  "block.ashdragonfire.mechanical_workbench": "机械工作台",
+  "block.ashdragonfire.energy_core_block": "能量核心方块",
+  "block.ashdragonfire.ruin_stone_bricks": "遗迹石砖",
+  "block.ashdragonfire.ancient_rune_block": "古代符文方块",
+  "block.ashdragonfire.aether_crystal_block": "以太水晶方块",
+  
+  "faction.ashdragonfire.none": "未选择阵营",
+  "faction.ashdragonfire.dragon": "龙族领地",
+  "faction.ashdragonfire.human": "钢铁联邦",
+  
+  "ability.ashdragonfire.fire_breath": "火焰吐息",
+  "ability.ashdragonfire.fire_breath.desc": "向前方喷射火焰,对锥形范围内的敌人造成伤害并点燃目标",
+  "ability.ashdragonfire.storm_call": "风暴召唤",
+  "ability.ashdragonfire.storm_call.desc": "召唤风暴,用闪电打击敌人",
+  "ability.ashdragonfire.lava_eruption": "岩浆喷发",
+  "ability.ashdragonfire.lava_eruption.desc": "使地面喷发岩浆",
+  "ability.ashdragonfire.lightning_strike": "闪电打击",
+  "ability.ashdragonfire.lightning_strike.desc": "召唤闪电打击目标",
+  
+  "ability.ashdragonfire.cannon_fire": "火炮射击",
+  "ability.ashdragonfire.cannon_fire.desc": "发射高能炮弹,命中后产生强力爆炸",
+  "ability.ashdragonfire.mech_suit": "机甲召唤",
+  "ability.ashdragonfire.mech_suit.desc": "部署机械战甲以增强战斗能力",
+  "ability.ashdragonfire.airship_deploy": "飞艇部署",
+  "ability.ashdragonfire.airship_deploy.desc": "部署飞艇用于运输",
+  
+  "gui.ashdragonfire.faction_selection": "选择你的阵营",
+  "gui.ashdragonfire.reputation": "声望",
+  "gui.ashdragonfire.energy": "能量",
+  "gui.ashdragonfire.mana": "魔力",
+  
+  "message.ashdragonfire.faction_joined": "你已加入 %s!",
+  "message.ashdragonfire.insufficient_mana": "魔力不足!",
+  "message.ashdragonfire.insufficient_energy": "能量不足!",
+  "message.ashdragonfire.ability_cooldown": "技能冷却中!",
+  
+  "dimension.ashdragonfire.flamecrest_isles": "焰冠群岛",
+  "dimension.ashdragonfire.gearhold_frontier": "齿轮之城外围"
+}
+

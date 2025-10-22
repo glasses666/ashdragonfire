@@ -1,0 +1,43 @@
+{
+  "id": "fire_breath",
+  "name": "Fire Breath",
+  "description": "Breathe a cone of fire, dealing damage over time",
+  "faction": "dragon",
+  "type": "active",
+  "cooldown": 10.0,
+  "mana_cost": 50,
+  "cast_time": 1.0,
+  "range": 15.0,
+  "damage": {
+    "base": 8.0,
+    "per_level": 2.0,
+    "type": "fire",
+    "duration": 5.0
+  },
+  "effects": [
+    {
+      "type": "fire",
+      "duration": 100,
+      "amplifier": 1
+    }
+  ],
+  "particles": {
+    "type": "flame",
+    "count": 50,
+    "spread": 30.0
+  },
+  "sound": {
+    "cast": "entity.ender_dragon.growl",
+    "hit": "block.fire.ambient"
+  },
+  "requirements": {
+    "min_level": 1,
+    "reputation": 0,
+    "prerequisites": []
+  },
+  "upgrades": {
+    "max_level": 5,
+    "cost_per_level": 1
+  }
+}
+

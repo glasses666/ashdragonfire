@@ -1,0 +1,109 @@
+{
+  "_comment": "Game Balance Configuration for Ash & Dragonfire",
+  
+  "conversion": {
+    "dragon_soul_lure": {
+      "base_success_rate": 0.5,
+      "max_success_rate": 0.9,
+      "reputation_factor": 0.0001,
+      "cooldown": 300,
+      "range": 10.0
+    },
+    "ash_blood_potion": {
+      "success_rate": 1.0,
+      "cooldown": 600,
+      "duration": 0
+    },
+    "neural_dominator": {
+      "success_rate": 1.0,
+      "cooldown": 600,
+      "range": 15.0,
+      "energy_cost": 500
+    },
+    "dragon_tongue_scroll": {
+      "base_success_rate": 0.4,
+      "max_success_rate": 0.8,
+      "reputation_factor": 0.0001,
+      "cooldown": 300,
+      "range": 10.0
+    }
+  },
+  
+  "reputation": {
+    "kill_enemy": 10,
+    "capture_point": 50,
+    "complete_quest": 100,
+    "war_event": 200,
+    "death_penalty": -20,
+    "betray_faction": -500
+  },
+  
+  "combat": {
+    "dragon": {
+      "melee_damage": 8.0,
+      "breath_damage": 10.0,
+      "defense": 4.0,
+      "health": 25.0
+    },
+    "human": {
+      "melee_damage": 6.0,
+      "ranged_damage": 12.0,
+      "defense": 6.0,
+      "health": 20.0
+    }
+  },
+  
+  "energy": {
+    "mana": {
+      "max_capacity": 200,
+      "regen_rate": 2.0,
+      "regen_delay": 5
+    },
+    "tech_energy": {
+      "max_capacity": 1000,
+      "regen_rate": 10.0,
+      "regen_delay": 3
+    }
+  },
+  
+  "world_generation": {
+    "dragon_structures": {
+      "dragon_nest": {
+        "weight": 5,
+        "min_distance": 1000,
+        "loot_level": "rare"
+      },
+      "floating_island": {
+        "weight": 3,
+        "min_distance": 2000,
+        "loot_level": "epic"
+      }
+    },
+    "human_structures": {
+      "steel_fortress": {
+        "weight": 5,
+        "min_distance": 1000,
+        "loot_level": "rare"
+      },
+      "airship_dock": {
+        "weight": 3,
+        "min_distance": 2000,
+        "loot_level": "epic"
+      }
+    }
+  },
+  
+  "war_events": {
+    "resource_point_capture": {
+      "duration": 600,
+      "reputation_reward": 200,
+      "spawn_rate": 0.1
+    },
+    "faction_raid": {
+      "duration": 1200,
+      "reputation_reward": 500,
+      "spawn_rate": 0.05
+    }
+  }
+}
+

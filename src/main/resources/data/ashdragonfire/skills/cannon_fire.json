@@ -1,0 +1,44 @@
+{
+  "id": "cannon_fire",
+  "name": "Cannon Fire",
+  "description": "Fire an explosive projectile",
+  "faction": "human",
+  "type": "active",
+  "cooldown": 8.0,
+  "energy_cost": 100,
+  "cast_time": 0.5,
+  "range": 30.0,
+  "damage": {
+    "base": 12.0,
+    "per_level": 3.0,
+    "type": "explosion",
+    "radius": 3.0
+  },
+  "effects": [
+    {
+      "type": "explosion",
+      "power": 2.0,
+      "fire": false,
+      "destroy_blocks": false
+    }
+  ],
+  "particles": {
+    "type": "explosion",
+    "count": 20,
+    "spread": 5.0
+  },
+  "sound": {
+    "cast": "entity.generic.explode",
+    "hit": "entity.generic.explode"
+  },
+  "requirements": {
+    "min_level": 1,
+    "reputation": 0,
+    "prerequisites": []
+  },
+  "upgrades": {
+    "max_level": 5,
+    "cost_per_level": 1
+  }
+}
+

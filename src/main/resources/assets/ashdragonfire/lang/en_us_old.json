@@ -1,0 +1,59 @@
+{
+  "item.ashdragonfire.dragon_crystal_staff": "Dragon Crystal Staff",
+  "item.ashdragonfire.dragon_scale_armor": "Dragon Scale Armor",
+  "item.ashdragonfire.dragonfire_core": "Dragonfire Core",
+  "item.ashdragonfire.energy_rifle": "Energy Rifle",
+  "item.ashdragonfire.mechanical_arm": "Mechanical Arm",
+  "item.ashdragonfire.cannon_ammo": "Cannon Ammunition",
+  "item.ashdragonfire.ancient_rune_stone": "Ancient Rune Stone",
+  "item.ashdragonfire.aether_core": "Aether Core",
+  "item.ashdragonfire.ash_blood": "Ash Blood",
+  "item.ashdragonfire.dragon_crystal_ore": "Dragon Crystal Ore",
+  "item.ashdragonfire.dragon_crystal_ingot": "Dragon Crystal Ingot",
+  "item.ashdragonfire.steel_alloy": "Steel Alloy",
+  
+  "block.ashdragonfire.dragon_crystal_ore_block": "Dragon Crystal Ore",
+  "block.ashdragonfire.deepslate_dragon_crystal_ore": "Deepslate Dragon Crystal Ore",
+  "block.ashdragonfire.dragon_crystal_block": "Dragon Crystal Block",
+  "block.ashdragonfire.lava_altar": "Lava Altar",
+  "block.ashdragonfire.steel_block": "Steel Block",
+  "block.ashdragonfire.mechanical_workbench": "Mechanical Workbench",
+  "block.ashdragonfire.energy_core_block": "Energy Core Block",
+  "block.ashdragonfire.ruin_stone_bricks": "Ruin Stone Bricks",
+  "block.ashdragonfire.ancient_rune_block": "Ancient Rune Block",
+  "block.ashdragonfire.aether_crystal_block": "Aether Crystal Block",
+  
+  "faction.ashdragonfire.none": "No Faction",
+  "faction.ashdragonfire.dragon": "Drakyn Dominion",
+  "faction.ashdragonfire.human": "Iron Federation",
+  
+  "ability.ashdragonfire.fire_breath": "Fire Breath",
+  "ability.ashdragonfire.fire_breath.desc": "Breathe fire forward, damaging and igniting enemies in a cone",
+  "ability.ashdragonfire.storm_call": "Storm Call",
+  "ability.ashdragonfire.storm_call.desc": "Summon a storm to strike enemies with lightning",
+  "ability.ashdragonfire.lava_eruption": "Lava Eruption",
+  "ability.ashdragonfire.lava_eruption.desc": "Cause lava to erupt from the ground",
+  "ability.ashdragonfire.lightning_strike": "Lightning Strike",
+  "ability.ashdragonfire.lightning_strike.desc": "Call down lightning to strike your target",
+  
+  "ability.ashdragonfire.cannon_fire": "Cannon Fire",
+  "ability.ashdragonfire.cannon_fire.desc": "Fire a powerful cannon shell that explodes on impact",
+  "ability.ashdragonfire.mech_suit": "Mech Suit",
+  "ability.ashdragonfire.mech_suit.desc": "Deploy a mechanical suit for enhanced combat",
+  "ability.ashdragonfire.airship_deploy": "Airship Deploy",
+  "ability.ashdragonfire.airship_deploy.desc": "Deploy an airship for transportation",
+  
+  "gui.ashdragonfire.faction_selection": "Choose Your Faction",
+  "gui.ashdragonfire.reputation": "Reputation",
+  "gui.ashdragonfire.energy": "Energy",
+  "gui.ashdragonfire.mana": "Mana",
+  
+  "message.ashdragonfire.faction_joined": "You have joined %s!",
+  "message.ashdragonfire.insufficient_mana": "Insufficient Mana!",
+  "message.ashdragonfire.insufficient_energy": "Insufficient Energy!",
+  "message.ashdragonfire.ability_cooldown": "Ability on cooldown!",
+  
+  "dimension.ashdragonfire.flamecrest_isles": "Flamecrest Isles",
+  "dimension.ashdragonfire.gearhold_frontier": "Gearhold Frontier"
+}
+
