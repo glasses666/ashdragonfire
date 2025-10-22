@@ -1,3 +1,5 @@
+![Ash & Dragonfire: Eternal War](github-banner.png)
+
 # 🔥 灰烬与龙焰：永燃之战 | Ash & Dragonfire: Eternal War
 
 <div align="center">
