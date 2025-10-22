@@ -1,0 +1,26 @@
+{
+  "_comment": "Brewing recipe for Ash Blood Potion",
+  "_note": "This is a documentation file. Actual brewing recipes need to be registered in code using BrewingRecipeRegistry",
+  "brewing_steps": [
+    {
+      "step": 1,
+      "input": "minecraft:water_bottle",
+      "ingredient": "minecraft:nether_wart",
+      "output": "minecraft:awkward_potion"
+    },
+    {
+      "step": 2,
+      "input": "minecraft:awkward_potion",
+      "ingredient": "ashdragonfire:ash_blood",
+      "output": "ashdragonfire:ash_blood_potion"
+    },
+    {
+      "step": 3,
+      "optional": true,
+      "input": "ashdragonfire:ash_blood_potion",
+      "ingredient": "minecraft:gunpowder",
+      "output": "ashdragonfire:splash_ash_blood_potion"
+    }
+  ]
+}
+

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SRS",
+    "RER",
+    "SRS"
+  ],
+  "key": {
+    "S": {
+      "item": "ashdragonfire:steel_alloy"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "E": {
+      "item": "ashdragonfire:energy_core_block"
+    }
+  },
+  "result": {
+    "item": "ashdragonfire:control_chip",
+    "count": 2
+  }
+}
+

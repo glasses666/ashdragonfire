@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DED",
+    "BAB",
+    "D D"
+  ],
+  "key": {
+    "D": {
+      "item": "ashdragonfire:dragon_crystal_ingot"
+    },
+    "E": {
+      "item": "ashdragonfire:aether_core"
+    },
+    "B": {
+      "item": "ashdragonfire:ash_blood"
+    },
+    "A": {
+      "item": "ashdragonfire:ancient_rune_stone"
+    }
+  },
+  "result": {
+    "item": "ashdragonfire:dragon_soul_lure",
+    "count": 1
+  }
+}
+

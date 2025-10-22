@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SCS",
+    "MEM",
+    "SBS"
+  ],
+  "key": {
+    "S": {
+      "item": "ashdragonfire:steel_alloy"
+    },
+    "C": {
+      "item": "ashdragonfire:control_chip"
+    },
+    "M": {
+      "item": "ashdragonfire:mechanical_arm"
+    },
+    "E": {
+      "item": "ashdragonfire:energy_core_block"
+    },
+    "B": {
+      "item": "ashdragonfire:subjugation_bolt"
+    }
+  },
+  "result": {
+    "item": "ashdragonfire:neural_dominator",
+    "count": 1
+  }
+}
+

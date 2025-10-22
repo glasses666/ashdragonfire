@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PAP",
+    "DPP",
+    " A "
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "A": {
+      "item": "ashdragonfire:ancient_rune_stone"
+    },
+    "D": {
+      "item": "ashdragonfire:dragon_crystal_dust"
+    }
+  },
+  "result": {
+    "item": "ashdragonfire:dragon_tongue_scroll",
+    "count": 3
+  }
+}
+
