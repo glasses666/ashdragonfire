@@ -1,0 +1,70 @@
+{
+  "_comment": "阵营转换系统 - 中文语言文件",
+  
+  "item.ashdragonfire.dragon_soul_lure": "龙魂引",
+  "item.ashdragonfire.dragon_soul_lure.tooltip.1": "用于与龙族建立灵魂链接",
+  "item.ashdragonfire.dragon_soul_lure.tooltip.2": "成功后龙族成为忠诚伙伴",
+  "item.ashdragonfire.dragon_soul_lure.tooltip.success_rate": "§6成功率: 50-90% (取决于声望)",
+  "item.ashdragonfire.dragon_soul_lure.tooltip.cooldown": "§9冷却时间: 60秒",
+  "item.ashdragonfire.dragon_soul_lure.tooltip.uses": "§b剩余使用次数: %s",
+  "item.ashdragonfire.dragon_soul_lure.not_dragon": "目标不是龙族实体！",
+  "item.ashdragonfire.dragon_soul_lure.already_converted": "该龙族已被转换！",
+  "item.ashdragonfire.dragon_soul_lure.success": "§a灵魂链接成功！龙族已成为你的伙伴！",
+  "item.ashdragonfire.dragon_soul_lure.failed": "§c灵魂链接失败！龙族进入狂暴状态！",
+  
+  "item.ashdragonfire.ash_blood_potion": "灰烬之血药剂",
+  "item.ashdragonfire.ash_blood_potion.tooltip.1": "用于净化人类士兵",
+  "item.ashdragonfire.ash_blood_potion.tooltip.2": "使其转变为龙族阵营的誓火者",
+  "item.ashdragonfire.ash_blood_potion.tooltip.success_rate": "§a成功率: 100%",
+  "item.ashdragonfire.ash_blood_potion.not_human": "目标不是人类实体！",
+  "item.ashdragonfire.ash_blood_potion.already_converted": "该士兵已被转换！",
+  "item.ashdragonfire.ash_blood_potion.success": "§a净化成功！士兵已成为誓火者！",
+  
+  "item.ashdragonfire.neural_dominator": "神经支配者",
+  "item.ashdragonfire.neural_dominator.tooltip.1": "人类阵营的终极武器",
+  "item.ashdragonfire.neural_dominator.tooltip.2": "用于强制支配龙族",
+  "item.ashdragonfire.neural_dominator.tooltip.warning": "§c警告: 这是对龙族意志的强制控制",
+  "item.ashdragonfire.neural_dominator.tooltip.uses": "§b剩余使用次数: %s",
+  "item.ashdragonfire.neural_dominator.not_dragon": "目标不是龙族实体！",
+  "item.ashdragonfire.neural_dominator.already_converted": "该龙族已被转换！",
+  "item.ashdragonfire.neural_dominator.success": "§b神经支配成功！龙族已被洗脑！",
+  
+  "item.ashdragonfire.dragon_tongue_scroll": "龙语卷轴",
+  "item.ashdragonfire.dragon_tongue_scroll.tooltip.1": "用于和平说服人类士兵",
+  "item.ashdragonfire.dragon_tongue_scroll.tooltip.2": "使其加入龙族阵营",
+  "item.ashdragonfire.dragon_tongue_scroll.tooltip.success_rate": "§6成功率: 40-80% (取决于声望)",
+  "item.ashdragonfire.dragon_tongue_scroll.tooltip.peaceful": "§a和平方式，不会引发战斗",
+  "item.ashdragonfire.dragon_tongue_scroll.not_human": "目标不是人类实体！",
+  "item.ashdragonfire.dragon_tongue_scroll.already_converted": "该士兵已被转换！",
+  "item.ashdragonfire.dragon_tongue_scroll.success": "§a说服成功！士兵已加入龙族阵营！",
+  "item.ashdragonfire.dragon_tongue_scroll.failed": "§e说服失败！士兵逃跑了！",
+  
+  "item.ashdragonfire.subjugation_bolt": "征服弹",
+  "item.ashdragonfire.dragon_crystal_dust": "龙晶粉末",
+  "item.ashdragonfire.soul_fragment": "灵魂碎片",
+  "item.ashdragonfire.control_chip": "控制芯片",
+  
+  "item.ashdragonfire.conversion.cooldown": "§e转换冷却中... 剩余 %s 秒",
+  "item.ashdragonfire.conversion.limit_reached": "§c已达到转换单位数量上限！(最多3个)",
+  
+  "entity.ashdragonfire.flame_sworn": "誓火者",
+  "entity.ashdragonfire.mechanized_drake": "机械化巨龙",
+  "entity.ashdragonfire.bonded_dragon": "链接之龙",
+  "entity.ashdragonfire.dragon_ally": "龙族盟友",
+  
+  "block.ashdragonfire.ancient_ruins_brick": "远古遗迹砖",
+  "block.ashdragonfire.sky_crystal_ore": "天空水晶矿石",
+  "block.ashdragonfire.reinforced_steel_block": "强化钢铁方块",
+  
+  "advancement.ashdragonfire.tame_dragon": "龙之友",
+  "advancement.ashdragonfire.tame_dragon.desc": "成功驯服第一条龙",
+  "advancement.ashdragonfire.purify_human": "净化者",
+  "advancement.ashdragonfire.purify_human.desc": "转化10个人类士兵",
+  "advancement.ashdragonfire.dominate_dragon": "支配者",
+  "advancement.ashdragonfire.dominate_dragon.desc": "使用神经支配者5次",
+  "advancement.ashdragonfire.persuade_human": "外交官",
+  "advancement.ashdragonfire.persuade_human.desc": "成功说服20个士兵",
+  "advancement.ashdragonfire.conversion_master": "阵营大师",
+  "advancement.ashdragonfire.conversion_master.desc": "完成所有转换类型"
+}
+
